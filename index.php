@@ -1,5 +1,4 @@
 <!--
-Author:
 Blog: https://StefanoPicozzi.blog
 GitHub: https://github.com/StefanoPicozzi/cotd.git
 Date: 2016
